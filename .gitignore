@@ -20,3 +20,5 @@ cypress/videos/
 
 # yard
 yarn-error.log
+
+puppeteer-core.js
